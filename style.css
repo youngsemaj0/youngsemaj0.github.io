@@ -5,7 +5,7 @@
 body{
     margin: 0;
     background: #a02727;
-    color: #222;
+    color: #74126f;
     font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -36,7 +36,7 @@ main{
 
 body{
     background: #000000; /* warm paper */
-    color: #107dbd;
+    color: #7e0d6b;
 }
 
 h2{
@@ -46,12 +46,12 @@ h2{
     font-weight: 900;
     letter-spacing: -0.04em;
     text-transform: uppercase;
-    color: #000;
+    color: #751468;
 }
 
 .content> p{
     margin: 0;
-    color: #000000;
+    color: #7a1c76;
     font-size: 0.9rem;
     text-transform: uppercase;
     letter-spacing: 0.15;
@@ -59,11 +59,11 @@ h2{
 }
 
 h2{
-    color: #3e9456; /* bright accent */
+    color: #971a91; /* bright accent */
 }
 
 .content p{
-    color: #a8b2d8;
+    color: #a113a1;
 }
  
 #intrests{
